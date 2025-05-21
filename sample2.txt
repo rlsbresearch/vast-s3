@@ -1,0 +1,184 @@
+METEOROLOGICAL TERMINOLOGY
+OAT
+Standard
+Temperature
+Outside Air Temperature is the free air static
+temperature. It may be expressed in either degrees
+Celsius or degrees Fahrenheit.
+Standard Temperature is 15°C at sea level
+pressure altitude and decreases by 2°C for each
+1000 feet of altitude.
+Pressure Pressure Altitude is the altitude read from an
+Altitude altimeter when the altimeter's barometric scale has
+been set to 29.92 inches of mercury (1013 mb).
+ENGINE POWER TERMINOLOGY
+BHP
+RPM
+Static
+RPM
+MAP
+Lean
+Mixture
+Rich
+Mixture
+Full Rich
+Idle Cutoff
+Revision 4
+Brake Horsepower is the power developed by the
+engine.
+Revolutions Per Minute is engine speed.
+Static RPM is engine speed attained during a full
+throttle engine runup when the airplane is on the
+ground and stationary.
+Manifold Absolute Pressure is the absolute
+pressure measured in the engine induction system.
+MAP is measured in units of inches of mercury
+(in HG).
+Decreased proportion of fuel in the fuel-air mixture
+supplied to the engine. As air density decreases,
+the amount of fuel required by the engine decreases
+for a given throttle setting. Adjusting the fuel-air
+mixture to provide a smaller portion of fuel is known
+as "leaning" the mixture.
+Increased proportion of fuel in the fuel-air mixture
+supplied to the engine. As air density increases, the
+amount of fuel required by the engine increases for
+a given throttle setting. Adjusting the fuel-air mixture
+to provide a greater portion of fuel is known as
+"richening" the mixture.
+Mixture control full forward (pushed in, full control
+travel, toward the panel).
+Mixture control full aft (pulled out, full control travel,
+away from the panel). 
+SECTION 1
+GENERAL
+CESSNA
+MODEL 172S
+ENGINE POWER TERMINOLOGY (Continued)
+Full
+Throttle
+Closed
+Throttle
+Throttle full forward (pushed in, full control travel,
+toward the panel) Also known as "full open" throttle.
+Throttle full aft (pulled out, full control travel, away
+from the panel). Also known as the throttle "idle"
+position.
+AIRPLANE PERFORMANCE AND FLIGHT PLANNING
+TERMINOLOGY
+Demonstrated
+Crosswind
+Velocity
+Usable Fuel
+Unusable
+Fuel
+GPH
+NMPG
+g
+Course
+Datum
+1-10
+Demonstrated Crosswind Velocity is the velocity
+of the crosswind component for which adequate
+control of the airplane during takeoff and landing
+was actually demonstrated during certification tests.
+The value shown is not considered to be limiting.
+Usable Fuel is the fuel available for flight planning.
+Unusable Fuel is the quantity of fuel that can not be
+safely used in flight.
+Gallons Per Hour is the amount of fuel consumed
+per hour.
+Nautical Miles Per Gallon is the distance which can
+be expected per gallon of fuel consumed at a
+specific engine power setting and/or flight
+configuration.
+g is acceleration due to gravity.
+Course Datum is the compass reference used by
+the autopilot, along with course deviation, to provide
+lateral control when tracking a navigation signal.
+Revision 4 
+CESSNA
+MODEL 172S
+SECTION 1
+GENERAL
+WEIGHT AND BALANCE TERMINOLOGY
+Reference
+Datum
+Station
+Arm
+Moment
+Center of
+Gravity
+(C.G.)
+C.G.
+Arm
+C.G.
+Limits
+Standard
+Empty
+Weight
+Basic Empty
+Weight
+Useful Load
+MAC
+July 8/98
+Reference Datum is an imaginary vertical plane from
+which all horizontal distances are measured for
+balance purposes.
+Station is a location along the airplane fuselage given
+in terms of the distance from the reference datum.
+Arm is the horizontal distance from the reference
+datum to the center of gravity (C.G.) of an item.
+Moment is the product of the weight of an item
+multiplied by its arm. (Moment divided by the constant
+1000 is used in this handbook to simplify balance
+calculations by reducing the number of digits.)
+Center of Gravity is the point at which an airplane, or
+equipment, would balance if suspended. Its distance
+from the reference datum is found by dividing the
+total moment by the total weight of the airplane.
+Center of Gravity Arm is the arm obtained by
+adding the airplane's individual moments and dividing
+the sum by the total weight.
+Center of Gravity Limits are the extreme center of
+gravity locations within which the airplane must be
+operated at a given weight.
+Standard Empty Weight is the weight of a standard
+airplane, including unusable fuel, full operating fluids
+and full engine oil.
+Basic Empty Weight is the standard empty weight
+plus the weight of optional equipment.
+Useful Load is the difference between ramp weight
+and the basic empty weight.
+MAC {Mean Aerodynamic Chord) is the chord of an
+imaginary rectangular airfoil having the same pitching
+moments throughout the flight range as that of the
+actual wing.
+1-11 
+SECTION 1
+GENERAL
+CESSNA
+MODEL 172S
+WEIGHT AND BALANCE TERMINOLOGY (Continued)
+Maximum
+Ramp
+Weight
+Maximum
+Takeoff
+Weight
+Maximum
+Landing
+Weight
+Tare
+1-12
+Maximum Ramp Weight is the maximum weight
+approved for ground maneuver, and includes the
+weight of fuel used for start, taxi and run up.
+Maximum Takeoff Weight is the maximum weight
+approved for the start of the takeoff roll.
+Maximum Landing Weight is the maximum weight
+approved for the landing touchdown.
+Tare is the weight of chocks, blocks, stands, etc.
+used when weighing an airplane, and is included in
+the scale readings. Tare is deducted from the scale
+reading to obtain the actual (net
