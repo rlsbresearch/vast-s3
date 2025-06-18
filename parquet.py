@@ -7,6 +7,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def test_vast_s3_connection():
+    """
+    Connects to a VAST S3-compatible bucket using environment variables.
+    Lists objects in the bucket and uploads 'sample2.txt' using multipart upload.
+    Prints the results.
+    """
     access_key = os.getenv("ACCESS_KEY")
     secret_key = os.getenv("SECRET_KEY")
     host_base = os.getenv("HOST_BASE")
